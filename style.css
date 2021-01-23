@@ -1,0 +1,117 @@
+.container{
+    max-width: 960px;
+    margin: 0 auto;
+    background-color: #eba08e;
+    font-size: 24px;
+    padding: 25px;
+     border-radius: 11px;
+}
+.parallax{
+ background: url('img.PNG') no-repeat center;
+background-size: cover;
+background-attachment: fixed;
+height: 500px;
+}
+
+.logo{
+    max-width: 960px;
+    margin: 0 auto;
+    background-color: #fffefe;
+    font-size: 24px;
+    margin-left: 100px;
+}
+
+.img{
+    width: 250px;
+    display: flex;
+    justify-content: left;
+}
+.paralax1{
+    background: url('img1.PNG') no-repeat center;
+background-size: cover;
+background-attachment: fixed;
+height: 500px;
+text-align:center;
+display: flex;
+justify-content: center;
+align-items: center;
+color: black;
+}
+.paralax2{
+    background: url('img2.PNG') no-repeat center;
+background-size: cover;
+background-attachment: fixed;
+height: 500px;
+text-align:center;
+display: flex;
+justify-content: center;
+align-items: center;
+color: black;
+}
+.paralax3{
+    background: url('img3.PNG') no-repeat center;
+background-size: cover;
+background-attachment: fixed;
+height: 500px;
+text-align:center;
+display: flex;
+justify-content: center;
+align-items: center;
+color: black;
+}
+.paralax4{
+    background: url('img4.PNG') no-repeat center;
+background-size: cover;
+background-attachment: fixed;
+height: 500px;
+text-align:center;
+display: flex;
+justify-content: center;
+align-items: center;
+color: rgb(0, 0, 0);
+}
+.paralax5{
+    background: url('img5.PNG') no-repeat center;
+background-size: cover;
+background-attachment: fixed;
+height: 500px;
+text-align:center;
+display: flex;
+justify-content: center;
+align-items: center;
+color: rgb(10, 10, 10);
+}
+.paralax6{
+    background: url('img6.PNG') no-repeat center;
+background-size: cover;
+background-attachment: fixed;
+height: 500px;
+text-align:center;
+display: flex;
+justify-content: center;
+align-items: center;
+color: rgb(5, 5, 5);
+}
+.paralax7{
+    background: url('img7.PNG') no-repeat center;
+background-size: cover;
+background-attachment: fixed;
+height: 500px;
+text-align:center;
+display: flex;
+justify-content: center;
+align-items: center;
+color: rgb(17, 16, 16);
+}
+
+.paralax8{
+    background: url('img8.PNG') no-repeat center;
+background-size: cover;
+background-attachment: fixed;
+height: 500px;
+text-align:center;
+display: flex;
+justify-content: center;
+align-items: center;
+color: rgb(0, 0, 0);
+}
