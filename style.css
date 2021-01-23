@@ -7,7 +7,7 @@
      border-radius: 11px;
 }
 .parallax{
- 
+ background: url('img.PNG') no-repeat center;
 background-size: cover;
 background-attachment: fixed;
 height: 500px;
@@ -105,7 +105,7 @@ color: rgb(17, 16, 16);
 }
 
 .paralax8{
-   
+   background: url('img8.PNG') no-repeat center;
 background-size: cover;
 background-attachment: fixed;
 height: 500px;
