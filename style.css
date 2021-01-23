@@ -79,7 +79,7 @@ text-align:center;
 display: flex;
 justify-content: center;
 align-items: center;
-color: rgb(10, 10, 10);
+color: #FFFFFF;
 }
 .paralax6{
     background: url('img6.PNG') no-repeat center;
